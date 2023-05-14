@@ -3,7 +3,7 @@ package lab01;
 import java.time.LocalDate;
 import java.util.Scanner;
 
-public class IndWork7 {
+public class IndWork17 {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         LocalDate current_date = LocalDate.now();

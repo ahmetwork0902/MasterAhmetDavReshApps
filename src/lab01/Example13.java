@@ -1,6 +1,6 @@
 package lab01;
 
-public class Example3 {
+public class Example13 {
     public static void main(String[] args) {
         int s, d;
         s = 10;

@@ -2,7 +2,7 @@ package lab01;
 
 import java.util.Scanner;
 
-public class IndWork9 {
+public class IndWork19 {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         System.out.println("Введите число: ");

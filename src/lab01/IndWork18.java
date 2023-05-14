@@ -3,7 +3,7 @@ package lab01;
 
 import java.util.Scanner;
 
-public class IndWork8 {
+public class IndWork18 {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         System.out.println("Введите первое число: ");

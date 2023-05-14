@@ -1,6 +1,6 @@
 package lab01;
 
-public class Example2 {
+public class Example12 {
     public static void main(String[] args) {
         int num = 100;
         System.out.println("num: " + num);
