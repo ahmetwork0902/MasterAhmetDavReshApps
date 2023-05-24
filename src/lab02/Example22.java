@@ -1,6 +1,4 @@
 package lab02;
-
-import javax.security.auth.kerberos.EncryptionKey;
 public class Example22 {
     public static String getEncryptString(String encryptString, int shift){
 
@@ -15,4 +13,14 @@ public class Example22 {
         encryptString = new String(arrayCharNew);
         return encryptString;
     }
+
+    //Добавочный метод для работы класса шифрования:
+    public static void main(String[] args) {
+        String message = "Привет мир от Ахмета Давлятшина!";
+        int shift = 5;
+
+        String encryptedMessage = getEncryptString(message, shift);
+        System.out.println("Зашифрованное сообщение: " + encryptedMessage);
+    }
 }
+
