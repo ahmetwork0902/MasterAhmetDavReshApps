@@ -26,4 +26,3 @@ public class MapExample {
         System.out.println("Количество записей: " + scores.size());
     }
 }
-
